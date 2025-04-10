@@ -24,7 +24,7 @@ It implements the **MVVM architectural pattern** using modern Android Jetpack co
 Here are some screenshots of the app in action:
 
 <div align="center">
-  <img src="screenshots/screenshot1.png" alt="Movie List Screen" width="200px"/>
-  <img src="screenshots/screenshot2.png" alt="Movie Details Screen" width="200px"/>
-  <img src="screenshots/screenshot3.png" alt="Favorite Movies Screen" width="200px"/>
+  <img src="screenshot/tmdb1.png" alt="Movie List Screen" width="200px"/>
+  <img src="screenshot/tmdb2.png" alt="Movie Details Screen" width="200px"/>
+  <img src="screenshot/tmdb3.png" alt="Favorite Movies Screen" width="200px"/>
 </div>
