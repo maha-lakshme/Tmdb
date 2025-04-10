@@ -25,6 +25,8 @@ Here are some screenshots of the app in action:
 
 <div align="center">
   <img src="screenshot/tmdb1.png" alt="Movie List Screen" width="200px"/>
-  <img src="screenshot/tmdb2.png" alt="Movie Details Screen" width="200px"/>
-  <img src="screenshot/tmdb3.png" alt="Favorite Movies Screen" width="200px"/>
+  <img src="screenshot/tmdb2.png" alt="Movie Screen" width="200px"/>
+  <img src="screenshot/tmdb3.png" alt="TvShow Screen" width="200px"/>
+    <img src="screenshot/tmdb4.png" alt="TvShow Screen" width="200px"/>
+
 </div>
